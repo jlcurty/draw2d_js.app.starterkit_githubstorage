@@ -35,8 +35,8 @@
   {
     "type": "draw2d.shape.node.End",
     "id": "02a98524-0e33-308b-e1a2-4cf693c7feae",
-    "x": 662,
-    "y": 190,
+    "x": 669,
+    "y": 258,
     "width": 50,
     "height": 50,
     "alpha": 1,
